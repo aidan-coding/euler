@@ -1,4 +1,4 @@
-print("hello world")
+print("Largest Palindrome Product")
 
 def isPalindrome(num):
     num_copy = num
